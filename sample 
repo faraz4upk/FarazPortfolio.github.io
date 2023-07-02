@@ -1,0 +1,118 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<title>Big Data Analytics, School Projects</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Main -->
+			<div id="main">
+
+				<!-- Portfolio -->
+					<section id="portfolio" class="two">
+						<div class="container">
+
+							<header>
+								<h2>Extended Portfolio</h2>
+							</header>
+
+							<p>"Further Showcase of Advanced Big Data Solutions"
+							</p>
+
+							<div class="row">
+								<div class="col-12 col-12-mobile">
+                                    <!-- 5 New Boxes -->
+                                    <!-- Box 1 -->
+									<article class="item">
+										<div class="row">
+											<div class="col-6">
+												<a href="#" class="image fit"><img src="images/BaseballAnalytics-900x900.jpg" alt="" /></a>
+												<header>
+													<h3>Predictive analysis using Python</h3>
+												</header>
+											</div>
+											<div class="col-6">
+												<div class="description">
+													<p>Predictive Analysis using liner regression. We are working with a data set that has data for 2805 matches from 1871 to 2015. In sprint 1 of the project,
+                                                        we will be performing an exploratory data analysis to understand the statistical properties and distribution
+                                                        shapes of 8 key variables and do a correlation analysis to study if win or loss has a correlation to run
+                                                        scores, run against, and run difference, from 1960 to 2010.
+                                                        Lastly we will be doing correlation analysis to games won, creating a test and train data
+                                                        set and build linear regression model for all of our 4 time periods, and test our model by predicting games
+                                                        won by NYY and TORR from 2012 - 2015</p>
+												</div>
+											</div>
+										</div>
+									</article>
+                                    <!-- Box 2 -->
+                                    <article class="item">
+										<div class="row">
+											<div class="col-6">
+												<a href="#" class="image fit"><img src="images/egx-social-edge-computing-1280x680-2.jpg" alt="" /></a>
+												<header>
+													<h3>SQL Project</h3>
+												</header>
+											</div>
+											<div class="col-6">
+												<div class="description">
+													<p>The first scenario is based on data stored in an SQLite relational database, accessible using SQL that is coded within a Python program. 
+                                                        This scenario is about a Video Rental Store company. The database is called “sakila.” 
+                                                        This database will be implemented using the SQLite database. The physical database will be stored as a file on your local computer and accessed using SQL commands via Python. </p>
+												</div>
+											</div>
+										</div>
+									</article>
+                                    <!-- Box 3 -->
+                                    <article class="item">
+										<div class="row">
+											<div class="col-6">
+												<a href="#" class="image fit"><img src="images/jf-2011-04777m_0006.jpg" alt="" /></a>
+												<header>
+													<h3>SQL Project</h3>
+												</header>
+											</div>
+											<div class="col-6">
+												<div class="description">
+													<p>The second scenario is based on data stored in a MySQL database hosted on the Google Cloud Platform (GCP) This database describes the activities of a Soft Drink Distribution company. The database is relational and accessible by SQL. The physical schema on GCP is called “user.”
+                                                        The MySQL database will be accessed using SQL executed via the MySQL Workbench application and via Python. Note that the MySQL Workbench application and Python will be hosted on your local computer.</p>
+												</div>
+											</div>
+										</div>
+									</article>
+                                    <!-- Box 4 -->
+                                    <article class="item">
+										<div class="row">
+											<div class="col-6">
+												<a href="#" class="image fit"><img src="images/restaurant-rating-review-template-hand-drawn-cartoon-flat-illustration-with-customer-feedback-rate-star-expert-opinion-and-online-survey-vector.jpg" alt="" /></a>
+												<header>
+													<h3>MongoDB Project</h3>
+												</header>
+											</div>
+											<div class="col-6">
+												<div class="description">
+													<p>The third scenario is based on data describing the names, locations and cuisine categories for restaurants in New York City. This data is stored in MongoDB, a document NoSQL database. It is hosted on the Google Cloud Platform (GCP). You will access MongoDB using the Robo-3T application and Python. Both Robo-3T and Python will be hosted on your local computer.</p>
+												</div>
+											</div>
+										</div>
+                                    </article>
+                                    <!-- Box 5 -->
+                                    <article class="item">
+										<div class="row">
+											<div class="col-6">
+												<a href="#" class="image fit"><img src="images/iStock-847292080.jpg" alt="" /></a>
+												<header>
+													<h3>Basic Neo4j</h3>
+												</header>
+											</div>
+											<div class="col-6">
+												<div class="description">
+													<p>The fourth scenario is based on a movie dataset showing which actors and directors have been involved with various movie titles. The data is stored in Neo4j, a graph NoSQL database. It is hosted on Neo4j’s sandbox accessed via Neo4j’s website. You will access this database using the Neo4j Browser application accessed via your local web browser.</p>
+												</div>
+											</div>
+										</div> 
+                                    </article> 
+
+</html>
